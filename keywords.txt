@@ -1,0 +1,8 @@
+BatteryLevel  KEYWORD3
+
+drawSignalBar	KEYWORD2
+showBatteryLevel	KEYWORD2
+showBatteryVoltage	KEYWORD2
+getBatteryPercentage	KEYWORD2
+getBatteryVoltage	KEYWORD2
+

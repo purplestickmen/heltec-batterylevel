@@ -1,0 +1,16 @@
+{
+  "name": "Heltec Battery Level",
+  "keywords": "heltec, esp8266, wifi kit, oled",
+  "description": "Library to display the Battery Level indicator for the Heltec ESP 8266",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/purplestickmen/heltec-batterylevel"
+  },
+  "authors":{
+        "name": "Purple Stickmen",
+        "email": "purple@stickmen"
+   },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+}
